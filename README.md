@@ -16,6 +16,7 @@ These models were also evaluated for performance and accuracy at predicting cred
 ## Results
 
 * Naive Random Oversampling
+
 ![alt text](https://github.com/Nehemiahmageto/Credit_Risk_Analysis/blob/main/images/Capture_1.png)
 
 * SMOTE Oversampling
