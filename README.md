@@ -10,6 +10,7 @@ Machine learning algorithms used in this project:
 - SMOTEENN
 - BalancedRandomForestClassifier
 - EasyEnsembleClassifier
+
 These models were also evaluated for performance and accuracy at predicting credit risk.
 
 ## Results
